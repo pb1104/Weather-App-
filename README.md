@@ -1,2 +1,2 @@
-# Weather-App-
+# Weather Website--
 using html, css and javascript
